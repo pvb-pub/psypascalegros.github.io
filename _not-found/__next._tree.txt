@@ -2,4 +2,4 @@
 :HL["/fonts/manrope-latin-var.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"NYsOHnOcgDqvH57KoVu-1","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"crLe65kHiCiInGKqRPm_h","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
