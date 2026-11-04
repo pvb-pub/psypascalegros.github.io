@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /ui/
+
+Host: https://www.pascale-gros-therapie.fr
+Sitemap: https://www.pascale-gros-therapie.fr/sitemap.xml
